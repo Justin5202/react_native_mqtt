@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import init from 'react_native_mqtt';
-import { AsyncStorage, StyleSheet, Text, View } from 'react-native';
+import init from 'react_native_mqtAsyncStorage, StyleSheet, Text, View } from 'react-native';
 
 init({
   size: 10000,
